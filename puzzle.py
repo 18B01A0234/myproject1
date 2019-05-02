@@ -47,4 +47,3 @@ while d != 'Z':
 			print()
 	count += 1
 	d = input()
-print('hii')
